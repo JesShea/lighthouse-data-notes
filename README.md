@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jessica's Notes
 
 ## Summary
